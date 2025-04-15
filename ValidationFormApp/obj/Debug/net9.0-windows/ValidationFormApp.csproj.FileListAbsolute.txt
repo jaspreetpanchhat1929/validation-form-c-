@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\val\ValidationFormApp\bin\Debug\net9.0-windows\ValidationFormApp.exe
+C:\Users\DELL\Desktop\val\ValidationFormApp\bin\Debug\net9.0-windows\ValidationFormApp.deps.json
+C:\Users\DELL\Desktop\val\ValidationFormApp\bin\Debug\net9.0-windows\ValidationFormApp.runtimeconfig.json
+C:\Users\DELL\Desktop\val\ValidationFormApp\bin\Debug\net9.0-windows\ValidationFormApp.dll
+C:\Users\DELL\Desktop\val\ValidationFormApp\bin\Debug\net9.0-windows\ValidationFormApp.pdb
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.dll
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\refint\ValidationFormApp.dll
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.pdb
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ValidationFormApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\val\ValidationFormApp\obj\Debug\net9.0-windows\ref\ValidationFormApp.dll
